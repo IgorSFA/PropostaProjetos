@@ -10,4 +10,6 @@
 
 ##Propostas e resultados esperados
 
+###Extreme Programing e Ágil
+
 ##Considerações finais
