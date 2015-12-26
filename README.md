@@ -16,6 +16,6 @@
 
 ###Promoção de eventos internos, e incentivo à externos
 
-###Foco em resultado, sem esquecer da q
+###Foco em resultado, sem esquecer da qualidade
 
 ##Considerações finais
