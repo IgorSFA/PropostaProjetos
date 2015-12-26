@@ -12,4 +12,10 @@
 
 ###Extreme Programing e Ágil
 
+###Incentivo à novas tecnologias
+
+###Promoção de eventos internos, e incentivo à externos
+
+###Foco em resultado, sem esquecer da q
+
 ##Considerações finais
