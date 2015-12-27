@@ -22,16 +22,50 @@ No MEJ em si, estive participando no UFF Juntos. Além disso, já realizei bench
 
 ##Propostas e resultados esperados
 
-###Extreme Programing e Ágil
+###Métodos Ágeis
 
-###Desenvolver pessoas, para que estas desenvolvam soluções
+####Indivíduos e interações mais que processos e ferramentas
 
-###Incentivo à novas tecnologias
+####Software em funcionamento mais que documentação abrangente
+
+####Colaboração com o cliente mais que negociação de contratos
+
+####Responder a mudanças mais que seguir um plano
+
+###Extreme Programming
+
+As metodologias existem para facilitar a nossa vida enquanto empresa de desenvolvimento. É claro que talvez nós, como não somos uma empresa sênior, não consigamos aplicar 100% das práticas apresentadas nessas metodologias, mas, bem, elas estão aí pra facilitar a nossa vida, então por que não pararmos ao menos pra ver o que as faz tão especiais?
+
+É uma metodologia que, confesso, conheço mais, e que por conhecê-la, sei que é a mais difícil de ser aplicada. Não querendo transformar isso em uma explicação sobre o que é XP (não experiência, e sim eXtreme Programming), mas ela se encaixa perfeitamente no método ágil, e destaco os quatro valores dela, que definitivamente facilitam e agilizam os processos de desenvolvimento
+
+####Comunicação
+
+Assim como o Ágil, a XP também visa a melhor e mais rápida comunicação entre as pessoas envolvidas, para que, assim, os problemas sejam solucionadas da melhor forma possível. Ora, foi isso que aconteceu depois da etapa trainee, quando vimos que o treinamento não foi totalmente efetivo, e que precisariamos aplicar uma tutoria.
+
+Essa tutoria também se encaixa em uma ótima prática, *pair programming*, que nada mais é que dois desenvolvedores trabalhando lado-a-lado em um mesmo problema. Um desenvolvedor costuma ser mais experiente que o outro, mas nem sempre. Assim, a aproximação entre os dois aumenta, e ambos aprendem.
+
+####Simplicidade
+
+Por que pensar em todo o sistema em um primeiro momento? Sei que esse é o pensamento usual, como solucionar todo o problema de vez. Então, um grande professor sempre dizia que devemos desenvolver sempre em partes, *divide to conquer*. Nós sabemos que dificilmente utilizamos 100% do software, então por que não trabalhar com entregas curtas e contínuas? Assim, podemos entregar o que o cliente realmente quer, e de forma que ele sempre tenha algo utilizável, desde a primeira entrega.
+
+####Feedback
+
+O problema do treinamento entraria aqui também, mas destaco algo muito mais importante: *Testes*. Que sejam testes unitários, de integração, de aceitação, nós precisamos de métodos efetivos para testar os nossos sistemas. No Aval, nós passamos praticamente uma tarde testando cada funcionalidade, cada caso de uso, e encontramos alguns erros. Deixando de lado os "na minha máquina funciona", com esses tipos de testes automatizados, ficaríamos mais seguros enquanto a qualidade, pois receberiamos logo cedo o feedback de erros, se eles existirem.
+
+####Coragem
+
+Talvez o mais "não-tecnológico", mas o mais importante. É preciso coragem pra dar esse start e utilizar esse tipo de metodologia. As mudanças são grandes, e a mais difícil é a mudança de mindset. Precisamos pensar como desenvolvedores extremos, ágeis, para que possamos aplicar todas os métodos que estão ao nosso alcance.
+
+###Incentivo à novas tecnologias e novos conhecimentos
+
+A nossa área está em constante desenvolvimento. Para dar um exemplo, parece que a cada semana temos uma nova framework. Não quero dizer que precisamos saber de tudo sobre angular, sass, meteor, laravel, rails, django, node... (se eu continuar, vou acabar passando das 10 páginas) Não precisamos conhecer tudo, mas caso seja algo de interesse, seria no mínimo interessante dar essa abertura para que o membro aprenda, e utilize ao menos em projetos internos, novos conhecimentos.
+
+Deixo aberto "novos conhecimentos", pois não devemos ficar fechados em programação. Como a nossa diretoria trabalha também com o setor comercial, contato com cliente, é bom que promovamos benchs e capacitações nessas áreas.
 
 ###Promoção de eventos internos, e incentivo à externos
 
-###Foco em resultado, sem esquecer da qualidade
+Trabalhar, junto a diretoria de GP, na promoção de eventos internos, para que possamos compartilhar com os outros membros (e não-membros) coisas que estamos estudando e achamos interessante mostrá-las "ao mundo". O interessante de promover palestras, treinamentos, ou mesmo pequenas "talks" sobre assuntos diversos, é que nos forçamos a aprender mais sobre tal assunto, além de aprendermos a como falar, apresentar e compartilhar conhecimentos. Digo isso por experiência própria, e é o que vejo em todos os eventos em que fui.
 
-
+Além dos eventos internos, precisamos incentivar os nossos membros a comparecer a eventos externos, sobre diversos assuntos. Isso vai agregar um grande valor ao membro, além de trazer um novo conhecimento, uma nova área, um novo pensamento à empresa.
 
 ##Considerações finais
