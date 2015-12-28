@@ -1,5 +1,13 @@
 ##Apresentação
 
+Opa, eu sou o Igor Souza, aluno de ciência da computação. Sou louco por tecnologia e hackathons. Uma frase que define o meu desejo enquanto desenvolvedor eu li em um livro e diz o seguinte: nós devemos tratar o celular como nossa armadura do homem de ferro; a armadura do homem de ferro extende as vontades do tony stark, o auxilia. E é isso que eu quero fazer com os meus projetos, extender as vontades dos usuários, facilitar a vida deles, tornar-los mais fortes, "super-heróis" nas pequenas e grandes tarefas do cotidiano.
+
+O livro também diz que no final do dia o homem de ferro era só um homem, e eu levo isso tbm, é o homem que controla a tecnologia, não o contrário.
+
+"Mobile phone is our Iron Man suit"
+
+Estou quase sempre nos eventos das comunidades de devs do Rio, gosto de participar e ver o que está acontecendo no cenário de desenvolvimento.
+
 ##Introdução
 
 O meu objetivo com essa proposta é mostrar de que forma posso somar enquanto diretor de projetos à In Junior. Em vários eventos em que estive presente, pude ver e aprender de que forma melhorar e automatizar processos de desenvolvimento, boas (diria até ótimas) práticas, cultura de empresa e de comunidade.
@@ -18,7 +26,13 @@ No MEJ em si, estive participando no UFF Juntos. Além disso, já realizei bench
 
 ##Auto-Avaliação na gestão anterior
 
+O Daniel Callado aceitou o desafio de pegar a diretoria da empresa recém iniciada e fez um ótimo trabalho. Sempre esteve junto com os membros da diretoria, nos ouvindo e também dando feedback sobre o que fizemos. Talvez um dos poucos defeitos da sua diretoria foi que ele tomou muitas responsabilidades para si, até as que poderiam ser diluídas entre a diretoria.
+
+Acho que essa proximidade que foi criada entre todos os membros nos tornou uma diretoria forte e sólida, e é algo que deve continuar.
+
 ##Planejamento Pessoal para dedicação à empresa
+
+Desde o começo estou aprendendo agerir o meu tempo, de forma que a empresa terá o tempo necessário. 
 
 ##Propostas e resultados esperados
 
@@ -69,3 +83,9 @@ Trabalhar, junto a diretoria de GP, na promoção de eventos internos, para que 
 Além dos eventos internos, precisamos incentivar os nossos membros a comparecer a eventos externos, sobre diversos assuntos. Isso vai agregar um grande valor ao membro, além de trazer um novo conhecimento, uma nova área, um novo pensamento à empresa.
 
 ##Considerações finais
+
+Durante esse ano na diretoria de projetos, pude crescer enquanto desenvolvedor, profissional, e principalmente como pessoa. Minha candidatura é uma forma de retribuir tudo o que ganhei durante esse ano, e também compartilhar e aplicar o que aprendi durante o ano, claro que mantendo o ótimo trabalho da gestão anterior.
+
+Tenho a ciência de que não consegui expressar todo o meu desejo e todas as minhas ideias pra diretoria, e creio que nem da pra explicar tudo aqui. Isso vai ser algo que vai ser construído durante o período de gestão, sempre levando em consideração todos os membros da diretoria.
+
+https://github.com/IgorSFA/PropostaProjetos
